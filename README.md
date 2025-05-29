@@ -8,7 +8,7 @@ This repository contains answers for Lab 5 Web Development tasks. Each question'
 
 1. **JSON Data & Console Output**  
    Display book details using JavaScript in the console.  
-   🔗 [View Solution](https://aarani07.github.io/lab5_webdevelopment/question1.html)
+   🔗 [View Solution](https://aarani07.github.io/lab5_webdevelopment/question1.json)
 
 2. **jQuery DOM Manipulation**  
    Rewrite vanilla JS DOM operations using jQuery.  
