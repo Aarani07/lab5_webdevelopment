@@ -27,5 +27,3 @@ This repository contains answers for Lab 5 Web Development tasks. Each question'
 - Or visit the live pages using the links above
 
 ---
-
-📌 **Note**: Ensure GitHub Pages is configured correctly in the repository settings and that each file (e.g., `question1.html`, `question2.html`, etc.) exists in the root directory or `/docs` folder as per the GitHub Pages setup.
